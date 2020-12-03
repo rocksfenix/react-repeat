@@ -1,0 +1,92 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Repeat should display one element 1`] = `
+<li
+  index={1}
+>
+  🔥
+</li>
+`;
+
+exports[`Repeat should repeat a React Component and call listeners 1`] = `
+Array [
+  <button
+    onClick={[MockFunction]}
+  >
+    Click me!
+  </button>,
+  <button
+    onClick={[MockFunction]}
+  >
+    Click me!
+  </button>,
+  <button
+    onClick={[MockFunction]}
+  >
+    Click me!
+  </button>,
+  <button
+    onClick={[MockFunction]}
+  >
+    Click me!
+  </button>,
+  <button
+    onClick={[MockFunction]}
+  >
+    Click me!
+  </button>,
+  <button
+    onClick={[MockFunction]}
+  >
+    Click me!
+  </button>,
+]
+`;
+
+exports[`Repeat should repeat a React Component six times 1`] = `
+Array [
+  <button>
+    Click
+  </button>,
+  <button>
+    Click
+  </button>,
+  <button>
+    Click
+  </button>,
+  <button>
+    Click
+  </button>,
+  <button>
+    Click
+  </button>,
+  <button>
+    Click
+  </button>,
+]
+`;
+
+exports[`Repeat should repeat two elements twice 1`] = `
+Array [
+  <li
+    index={1}
+  >
+    🔥
+  </li>,
+  <li
+    index={2}
+  >
+    🍏
+  </li>,
+  <li
+    index={3}
+  >
+    🔥
+  </li>,
+  <li
+    index={4}
+  >
+    🍏
+  </li>,
+]
+`;
