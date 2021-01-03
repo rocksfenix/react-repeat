@@ -6,6 +6,9 @@
 
 This component will you help to repeat components or elements to fill the length that you need.
 
+See [usage and examples](https://react-repeat-website.vercel.app/).
+
+
 ## Install
 
 ```bash
